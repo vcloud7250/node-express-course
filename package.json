@@ -20,5 +20,6 @@
   "homepage": "https://github.com/vcloud7250/node-express-course#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
